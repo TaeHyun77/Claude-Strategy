@@ -1,7 +1,7 @@
 # Claude-Strategy
 Cladue 활용법 정리<br><br><br>
 
-### Claude Code 프로젝트 설정 가이드
+### Claude Code 프로젝트 설정 가이드 ( 주기적으로 업데이트 예정입니다. )
 
 ---
 
