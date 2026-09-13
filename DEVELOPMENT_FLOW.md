@@ -4,7 +4,7 @@ Claude를 사용하여 개발을 진행할 때의 Flow를 정리했습니다.
 
 # 개발 진행 Flow
 
-<img width="1774" height="887" alt="image" src="https://github.com/user-attachments/assets/6a2d8568-f64d-46c6-8fe6-3f467a5ff7f1" />
+<img width="796" height="198" alt="image" src="https://github.com/user-attachments/assets/1be5a708-86be-4130-96c5-6dc0b57529e6" />
 
 
 1. AI와 함께 설계 문서 작성
