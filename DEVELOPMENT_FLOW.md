@@ -3,7 +3,7 @@ Claude를 사용하여 개발을 진행할 때의 Flow를 정리했습니다.
 기본적으로 Plan 모드에서 요구사항과 기술적 설계를 구체화한 뒤, 구현 계획을 수립하고 Phase별로 구현을 진행합니다.<br><br>
 
 ### 개발 진행 Flow
-
+---
 <img width="796" height="198" alt="image" src="https://github.com/user-attachments/assets/1be5a708-86be-4130-96c5-6dc0b57529e6" />
 
 
@@ -48,10 +48,11 @@ Claude를 사용하여 개발을 진행할 때의 Flow를 정리했습니다.
     이를 통해 설계 → 작업 분해 → 구현 → 리뷰까지의 개발 흐름을 연결합니다.
 
 ### 설정 사항
+---
 
 [ Jira 상태는 GitHub 작업 흐름과 연동되게 하기 위해서는 깃허브 계정을 연동하고 Jira에서 자동화 작업을 생성해야합니다 ]
 
-<img width="1030" height="469" alt="ㅇㅇㅇ" src="https://github.com/user-attachments/assets/62271b37-a8be-4189-b31d-7f4386d3b0d9" /><br>
+<img width="1030" height="469" alt="ㅇㅇㅇ" src="https://github.com/user-attachments/assets/62271b37-a8be-4189-b31d-7f4386d3b0d9" /><br><br>
 
 [ 목록 관리 ]
 
